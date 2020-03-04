@@ -1,4 +1,4 @@
-## FabZeroAlgemeen
+## Bilal Abbas
 
 General Repo for the participants of the FabZero project and FabZero bootcamp
 

@@ -1,20 +1,14 @@
-## Bilal Abbas
+## Sessie 1 : 
+**GitHub**
 
-General Repo for the participants of the FabZero project and FabZero bootcamp
+Wat is Github? 
+Github stelt je in staat om de broncode van je applicatie op te slaan (op hun servers). Dat is handig, want de harddrive van je eigen computer heeft niet het eeuwige leven.
 
-In this repo you will find
+Daarnaast biedt het je voordelen om Github te gebruiken, want je leert zo een tool te gebruiken die heel veel in teams wordt gebruikt om met zijn allen aan hetzelfde stukje code te werken. Ook kun je er voor kiezen of je je project privé of publiek maakt.
 
-- Planning for FabZero 01 (beginning of march 2020 to end of june 2020)
-- Planning for FabZero 02 (beginning of september 2020 to mid of november 2020)
-- Planning for the FabZero Bootcamp
-- Class documentation on the course
+Projecten die je publiek maakt kunnen door opdrachtgevers worden bekeken en kunnen dienen als reclame voor jezelf.
 
+Wat vond ik moeilijk?
+De eerste les ging iets te snel maar conceptueel was ik wel mee. Teveel vakjargon maar door enkele youtubefilms en mijn lieve collega's snap ik het nu wel.
+De GITHUB desktop app was in het begin ook een mysterie maar uiteindelijk snap ik, dat het als medium dient tussen website en je computer.
 
-
-## Welcome to your new FabZero site
-
-- This website is built automatically by gitlab every time you edit the files in the docs folder
-- It does so thanks to [Mkdocs](https://mkdocs.org) a static site generator written in Python
-- You must start customizing the file mkdocs.yml with your information
-- You can change the looks of your website using mkdocs themes, you can find in the mkdocs.yml the names of the available themes
-- If you want to start from scratch, you can delete everything in this repository and push any other static website
